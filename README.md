@@ -29,7 +29,7 @@
 #### 組件分類
 
 1. 頁面組件-----page資料夾
-2  其他組件-----components資料夾
+2. 其他組件-----components資料夾
 
 #### api管理(使用angular service)
 
